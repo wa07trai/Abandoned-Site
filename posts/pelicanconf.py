@@ -2,10 +2,6 @@ AUTHOR = 'William'
 SITENAME = 'Kaleidoscope'
 SITEURL = ""
 
-THEME = '../pelican-themes/octopress'
-
-
-
 PATH = "content"
 
 TIMEZONE = 'EST'
@@ -36,8 +32,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
-<<<<<<< HEAD
 # RELATIVE_URLS = True
-=======
-# RELATIVE_URLS = True
->>>>>>> origin/main

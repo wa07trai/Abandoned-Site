@@ -2,7 +2,7 @@ AUTHOR = 'William'
 SITENAME = 'Kaleidoscope'
 SITEURL = ""
 
-THEME = '../pelican-themes/octopress'
+
 
 
 
